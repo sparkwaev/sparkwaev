@@ -1,4 +1,12 @@
-## Hi there 👋
+## About Me
+> Aspiring pre-IB 10th grader
+
+## Projects
+> [Personal Website](https://www.sparkwaev.github.io)
+> [Cybertanks Hacks](https://github.com/sparkwaev/cybertanks-hacks)
+
+## Contact
+> Discord: sparkwaev
 
 <!--
 **sparkwaev/sparkwaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
