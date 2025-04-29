@@ -2,7 +2,7 @@
 > Aspiring pre-IB 10th grader
 
 ## Projects
-> [Personal Website](https://www.sparkwaev.github.io)
+> [Personal Website](sparkwaev.github.io)
 > [Cybertanks Hacks](https://github.com/sparkwaev/cybertanks-hacks)
 
 ## Contact
