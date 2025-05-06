@@ -1,12 +1,11 @@
-## About Me
+## About Me 👾
 > Aspiring pre-IB 10th grader
-> 👾
 
-## Projects
+## Projects 👾
 > [Personal Website](https://github.com/sparkwaev/sparkwaev.github.io)
 > [Cybertanks Hacks](https://github.com/sparkwaev/cybertanks-hacks)
 
-## Contact
+## Contact 👾
 > Discord: sparkwaev
 
 <!--
