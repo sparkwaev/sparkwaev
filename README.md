@@ -1,5 +1,5 @@
 ## About Me 👾
-> Aspiring pre-IB 10th grader
+> Aspiring 11th grader
 
 ## Projects 👾
 > [Personal Website](https://github.com/sparkwaev/sparkwaev.github.io)
